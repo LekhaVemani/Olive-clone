@@ -116,8 +116,3 @@ olive-clone/
 This project helped me strengthen my frontend development skills by converting a static design into a functional UI using React.
 
 ---
-
-
-## Project Screenshot
-
-![Website Screenshot](screenshot.png)
