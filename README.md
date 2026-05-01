@@ -106,7 +106,7 @@ olive-clone/
 
 ## 🔗 GitHub Repository
 
-👉 https://github.com/LekhaVemani/olive-clone
+👉 https://github.com/LekhaVemani/Olive-clone
 
 ---
 
