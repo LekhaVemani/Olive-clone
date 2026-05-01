@@ -81,7 +81,6 @@ olive-clone/
  │    ├── App.js
  │    ├── App.css
  │    ├── index.js
- │    └── assets (images)
  ├── screenshot.png
  └── README.md
 ```
